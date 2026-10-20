@@ -1,0 +1,22 @@
+# 编译产物
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# IDE 配置文件
+.settings/
+.cproject
+.project
+*.code-workspace
+
+# 临时文件
+*.bak
+*.tmp
+*.log
+*~
